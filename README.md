@@ -1,1 +1,1 @@
-# vr-and-AI
+# VR-and-AI
